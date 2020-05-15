@@ -2,8 +2,8 @@
 
 Google Clone
 
--Html
+- Html
 
--Css
+- Css
 
 <img src="https://i.imgur.com/czPQimy.png" />
